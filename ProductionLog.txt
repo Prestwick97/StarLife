@@ -1,4 +1,5 @@
 Three.js tutorial 1
 Three.js tutorial 2 
 TensorFlow tutorial 1
+Research potential life cycles for stars
 Research math for star physics
