@@ -16,35 +16,39 @@ _In this application, users will (eventually) be able to run simulations of a st
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?_
+* _At this point in development, the application is uncompleted. Installation instructions will be incorporated at a later date._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs at this time; as there is very little code to break._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have any questions, comments, concerns, or suggestions, feel free to email Patrick at prestwick97@gmail.com_
 
-## Technologies Used
+## Technologies Used (thus far)
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_React_
+_Javascript_
+_Node.js_
+_CSS_
+_HTML_
+_Webpack_
+
+## Technologies yet to be potentially used 
+_Three.js_
+_Tensar flow_
+__
+
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Licensed under GPL open source License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
-Licensing
-An open source license details how others can use your code. MIT and GPL are the most common licenses. An MIT license means your code is free to use by anyone and you are not liable (Rails and jQuery use an MIT license). GPL also indicates free usage of the code but when used, the resulting work MUST be open source (Linux, Git and Wordpress use GPL).
+Copyright (c) 2020 **_Patrick S. Delaney_**
 
 
+## React Specifications
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
