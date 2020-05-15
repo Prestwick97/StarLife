@@ -6,8 +6,9 @@ function App() {
   return (
     <React.Fragment>
       <div>
-        
+        <Header />
         <StarControl />
+        <Footer />
       </div>
     </React.Fragment>
   );
