@@ -20,13 +20,14 @@ class StarControl extends React.Component {
   render() {
     return(
       <React.Fragment>
-        <div>
+        <div class='createStar'>
           <form>
               <input type='number' name='mass' placeholder='solar mass (kg)'/>
-            <button onClick={this.handleClick}>{"Create your star"}></button>
+            <button onClick={this.handleClick}>{"Create your star"}</button>
           </form>
         </div>
       </React.Fragment>
     )
   }
 }
+export default StarControl;
